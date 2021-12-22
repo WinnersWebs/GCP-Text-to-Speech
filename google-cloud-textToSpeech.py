@@ -1,6 +1,6 @@
 from google.cloud import texttospeech
-fi=''
-fo=''
+#fi=''
+#fo=''
 def s(v,g='f'):
     v=v.upper()
     """Synthesizes speech from the input file of ssml.
